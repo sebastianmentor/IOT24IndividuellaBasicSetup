@@ -1,0 +1,4 @@
+[wokwi]
+version=1
+firmware = "build/file.hex"
+elf = "build/file.elf"
