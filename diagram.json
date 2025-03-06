@@ -59,7 +59,7 @@
       "rotate": 90,
       "attrs": { "color": "red", "xray": "1" }
     },
-    { "type": "wokwi-rgb-led", "id": "rgb1", "top": -495.2, "left": -66.1, "attrs": {} },
+    { "type": "wokwi-rgb-led", "id": "rgb1", "top": -495.2, "left": -66.1, "attrs": {"common": "cathode"} },
     {
       "type": "wokwi-resistor",
       "id": "r1",
